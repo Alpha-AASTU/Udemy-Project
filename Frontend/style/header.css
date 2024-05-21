@@ -1,0 +1,117 @@
+.header{
+    display: flex;
+    align-content: center;
+    
+    width:100vw;
+    height:700px;
+  
+   /* border-top: 1px   #2D2F31;  Border at the top 
+    border-bottom: 1px inset  #2D2F31;  Border at the bottom 
+    border-left: none;  No border on the left 
+    border-right: none;  No border on the right 
+    border-bottom: 1px ridge #2D2F31;*/
+   
+    margin: 0;
+    z-index: 0;
+    position:relative;
+   /* background-color: aqua;*/
+}
+
+.headerText1{
+    display:flex;
+    align-self:center;
+    align-content: center;
+    align-items: center;
+    /*justify-content: space-between;
+    /*margin-left: 0.9%;*/
+    column-gap: 20px;
+   width: 250px;
+   height: 34px;
+   margin-top: 0.97%;
+   margin-left: 0.9%;
+    /*background-color: antiquewhite;*/
+}
+
+.udemylogo{
+    margin-left: 20px;
+    margin-top: 2.7% ;
+}
+.category{
+    margin-top: 1.5%;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#2D2F31;
+}
+.searchbar{
+   
+   /* background-color: #000;*/
+   
+    height: 40px;
+    margin-top: 0.57%;
+    left:0%;
+    
+}
+
+.searchInp{
+    
+    padding-left: 6%;
+    width:1000px;
+    
+    padding-top: 15px;
+    padding-bottom: 20px;
+    text-align: start;
+    padding-bottom: 1%;
+    border-radius: 40px;
+    border-width: 1px;
+    height: 25px;
+    font-size: 14px;
+    margin-bottom: 2%;
+    
+}
+
+.searchdiv{
+    position:relative;
+    color: #2D2F31;
+    left:0px;
+   
+}
+
+.searchbutton{
+    position:absolute;
+    left: 20px;
+    top:15px;
+    
+}
+
+.headerText2{
+    display: flex;
+    margin-top: 0.92%;
+    justify-content: space-between;
+    align-content: center;
+    /*background-color: antiquewhite;*/
+    width: 600px;
+    height: 34px;
+    margin-right: 40px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.text{
+    margin-top: 10px;
+}
+
+.profile{
+    border-style: solid;
+    border-radius: 50%;
+    padding-top: 6px;
+    padding-bottom: 25px;
+    padding-left: 3px;
+    padding-right: 3px;
+    margin-top: 0.9%;
+    background-color: black;
+    color: white;
+}
+
