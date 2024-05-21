@@ -1,0 +1,97 @@
+.footer{
+    width:100vw;
+    height:10000px;
+    
+    display:flex;
+    flex-direction: column;
+    margin-top: 20px;
+    background-color: #2D2F31;
+    color: white;
+}
+
+.infooter1{
+    display:flex;
+   
+    width:100vw;
+    border-bottom: 1px outset white;
+    height:80px;
+    column-gap: 600px;
+    
+}
+
+.infooter11{
+    margin-left: 2%;
+}
+
+.infooter12{
+    display: flex;
+    width:500px;
+    height: 80px;
+ 
+    justify-content: space-between;
+}
+
+.infooter2{
+    display:flex;
+    width:96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    height:500;
+  
+    justify-content: space-between;
+}
+
+.infooter22{
+    margin-right: 0.2%;
+    
+}
+
+.lasth3{
+    border-style: solid;
+    border-color:white;
+    border-width: 1px;
+    text-align:start;
+    padding-top:4px;
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-bottom: 4px;
+
+}
+
+.infooter21{
+    display: flex;
+    justify-content: space-between;
+  
+    width:42%;
+    height:200px;
+    row-gap: 60px;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin-top: 2%;
+    color: white;
+}
+
+.col a:hover{
+    text-decoration: underline;
+}
+
+.col div a{
+    color:white;
+}
+.infooter3{
+    display:flex;
+    width:96%;
+    height:50px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    justify-content: space-between;
+}
+
+.infooter3 .copy{
+    margin-top: 0.5%;
+}
