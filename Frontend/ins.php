@@ -3,7 +3,7 @@ session_start();
 $user_id =  $_SESSION['user_id'];
 $title=$video=[];
 $course_id=[];
-// Database connection parameters
+// Database connection parameter
 $servername = "localhost";
 $username = "root";
 $password = "";
