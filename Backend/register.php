@@ -5,7 +5,7 @@ $username = "root"; // Replace with your database username
 $password = ""; // Replace with your database password
 $dbname = "udemy_db2";
 
-// Create connection
+// Create connections
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
