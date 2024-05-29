@@ -20,8 +20,7 @@
             font-family: Arial, sans-serif;
             background-color:#f7f9fa;
             display: flex;
-            /*justify-content: center;
-            align-items: center;*/
+            
             flex-direction: column;
             height: 100vh;
             /*width:100vw;*/
