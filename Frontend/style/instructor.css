@@ -1,0 +1,99 @@
+body{
+    margin:0;
+}
+
+.wrapper-inst{
+    display:flex;
+    flex-direction: column;
+    width:100vw;
+    height:100vh;
+    
+}
+
+.main-content{
+    display: flex;
+    width: 100vw;
+    height:15000px;
+    
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    height:100%;
+    background-color: #2d2f31;
+    justify-content: space-around;
+}
+
+.insidebar{
+    color: white;
+}
+
+.main{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    
+}
+.header{
+    
+    align-self: flex-end;
+    display: flex;
+    justify-content: space-between;
+    width:10%;
+    margin-right: 25px;
+
+}
+
+.notification{
+    margin-right:5px;
+    margin-top: 30px;
+}
+
+.profile{
+    color:white;
+    font-weight: bold;
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 50%;
+    padding:6.25px 6.25px;
+    border-color: black;
+    background-color: black;
+}
+
+.paragraph{
+    margin-top: 90px;
+    align-self: center;
+    border-style: solid;
+    border-width: 1px;
+    padding:10px 250px;
+}
+.paragraph h3{
+    margin-left: 400px;
+}
+.containImgtxt{
+    display:flex;
+
+}
+
+.image{
+    margin-right: 150px;
+
+}
+
+.divbtn{
+    align-self: center;
+    margin-top: 50px;
+}
+
+.btn{
+    padding:10px 50px;
+    color: white;
+    font-weight: 16px;
+    background-color: #A435F0;
+}
+
+.btn:hover{
+    background-color: rgb(94, 30, 94);
+}
