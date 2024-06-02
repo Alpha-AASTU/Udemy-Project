@@ -1,7 +1,7 @@
 # Udemy-Project
 
 ## About The project
-The aim of this project is to clone the **Udemy**, Udemy is an online learning platform that offers a wide range of courses on various subjects, including technology, business, personal development, languages, and more.
+The aim of this project is to clone the **Udemy** website, Udemy is an online learning platform that offers a wide range of courses on various subjects, including technology, business, personal development, languages, and more.
 Programming Languages used are HTML, CSS, PHP and different API's...
 
 ## Institution
